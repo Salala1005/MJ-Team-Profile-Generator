@@ -35,5 +35,5 @@ Given tests are all passed to utilise TDD method.
  ### Contact
  Please check below links for the further details:</br>
 
-[GitHub](https://github.com/Salala1005/)</br>
+[GitHub](https://github.com/Salala1005/MJ-Team-profile-generator)</br>
 <a href="mailto:jin.mijeong@gmail.com?">Email</a>
