@@ -21,7 +21,7 @@ Given tests are all passed to utilise TDD method.
   ### Usage
   Type node index.js to start the application. Type npm run test to see tests are all passed.
   Then, questions will appear.</br> 
-  According to a manager's answers, team.html file will be created inside output directory.
+  According to a manager's answers, team.html file will be created inside the output directory.
 
   ### Installation
   1. Install npm init -y
@@ -29,7 +29,7 @@ Given tests are all passed to utilise TDD method.
   3. npm i jest
 
   ### Demonstration
- [Link to demo](https://drive.google.com/file/d/1duANDGvAWLWW5fFK2o6PLt-4NB3jEMfH/view)</br>
+ [Link to demo](https://drive.google.com/file/d/19Sc7juF5HCdN2E_bzLfH6mA5DWGi_VYy/view)</br>
  ![Screenshot](./assets/screencapture-127-0-0-1-5500-MJ-Team-profile-generator-output-team-html-2024-01-22-18_29_39.png)
 
  ### Contact
