@@ -1,0 +1,15 @@
+.employee-card {
+  /* width: 250px; */
+  height: 380px;
+  margin-bottom: 10px;
+  background-color: rgb(240, 238, 238);
+  box-shadow: 2px 5px 5px black;
+  border-top-left-radius: 10px;
+  display: flex;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}

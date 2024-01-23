@@ -9,7 +9,6 @@ const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./src/generateHTML.js");
-
 const employees = [];
 
 // TODO: Write Code to gather information about the development team members, and render the HTML file.
@@ -132,4 +131,7 @@ createManager()
   })
   .then(() => {
     console.log(employees);
+    fs.writeFile(outputPath, render(employees), (err) =>
+    err ? console.error(err) : console.log('Team.html file has been created successfully! Check output folder!')
+    );
   });
